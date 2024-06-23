@@ -8,18 +8,20 @@ Soy Eduardo0013, me considero una persona ami
 - 💬 Ask me about Computer science, design patterns, Software architecture and Operating systems
 
 ## Skills 
-![Javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)
-![Java](https://miro.medium.com/v2/resize:fit:2560/1*2XrX0fP0htyTCah7AglTig.jpeg)
-![Php](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png)
-![MySql](https://javguerra.github.io/assets/img/mysql.png)
-![SQL Server](https://storage.subs.noventiq.com/public/images/market_setting/logotype/53583/SQL1.png)
-![MongoDB](https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png)
+![Javascript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)
+![Java](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg)
+![Php](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg)
+![MySql](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg)
+![SQL Server](https://www.google.com/url?sa=i&url=https%3A%2F%2Flinube.com%2Fblog%2Factualizar-sql-server%2F&psig=AOvVaw2VHx86h7YzGgR3LqS7qKEx&ust=1719270971206000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCbjs7t8oYDFQAAAAAdAAAAABAV)
+![MongoDB](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg)
 ![Linux](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg)
-![Laravel](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png)
-![React](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FReact&psig=AOvVaw0UQA4vjcTXDcoAX01cC-cg&ust=1719269972665000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICBg_Lp8oYDFQAAAAAdAAAAABAD)
-![Express](https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png)
-![Css](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
-![Postcss](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PostCSS_Logo.svg/1200px-PostCSS_Logo.svg.png)
+![Laravel](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg)
+![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg)
+![Express](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg)
+![Css](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg)
+![Postcss](https://static-00.iconduck.com/assets.00/postcss-icon-256x256-k0prf6hn.png)
+![typescript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg)
 
 ## Social
+[]
 ![Linkedin](https://www.linkedin.com/in/eduardo-salas-68773b1a7)
