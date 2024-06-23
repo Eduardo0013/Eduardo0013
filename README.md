@@ -8,12 +8,20 @@ Soy Eduardo0013, me considero una persona ami
 - 💬 Ask me about Computer science, design patterns, Software architecture and Operating systems
 
 ## Skills
-<p align="left">
+<style>
+  .container {
+    display: block;
+  }
+  .container a img {
+    width: 64px;
+  }
+</style>
+<p align="left" class='container'>
   <a href='https://developer.mozilla.org/es/docs/Web/JavaScript' target='_blank'>
-    <img width='128px' src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg'/>
+    <img width='64px' src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg'/>
   </a>
   <a href='https://java.com/es' target='_blank'>
-    <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg' target='_blank'/>
+    <img width='64px' src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg' target='_blank'/>
   </a>
   <a href='https://www.php.net/' target='_blank'>
     <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg'/>
