@@ -10,7 +10,7 @@ Soy Eduardo0013, me considero una persona ami
 ## Skills
 <p align="left">
   <a href='https://developer.mozilla.org/es/docs/Web/JavaScript' target='_blank'>
-    <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg'/>
+    <img width='128px' src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg'/>
   </a>
   <a href='https://java.com/es' target='_blank'>
     <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg' target='_blank'/>
