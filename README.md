@@ -1,5 +1,4 @@
 ## Hi there 👋, I´m Eduardo0013
-Soy Eduardo0013, me considero una persona ami 
 
 - 🌍  I'm based in México
 - 🔭 I’m currently working on [XPD](https://www.expidetufactura.com.mx/XPD)
